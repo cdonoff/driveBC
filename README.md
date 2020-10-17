@@ -8,7 +8,7 @@
 
 The Drive BC webpage is used extensively throughout the year as travellers plan routes to destinations throughout BC.  While the official webpage has an interactive map, it is quite slow and hard to customize.  Fortunately, the government supports the **Open511-DriveBC API** which allows members of the public to pull information and customize as desired.  
 
-With this in mind, we created a driveBC API wrapper that takes inputs from the user in various functions and produces interactive maps that allow further exploration.  The description of these functions is below.
+With this in mind, we (Chris Donoff and Christian Hluchy) created a driveBC API wrapper that takes inputs from the user in various functions and produces interactive maps that allow further exploration.  The description of these functions is below.
 
 ## driveBC\_map_major
 
